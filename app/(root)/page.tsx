@@ -12,7 +12,7 @@ const Home = async () => {
     <>
       <h1></h1>
 
-      <form
+      {/* <form
         className="px-10 pt-[100px]"
         action={async () => {
           "use server";
@@ -20,7 +20,7 @@ const Home = async () => {
         }}
       >
         <Button type="submit">Logout</Button>
-      </form>
+      </form> */}
     </>
   );
 };
